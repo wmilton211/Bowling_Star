@@ -28,4 +28,9 @@ public class BowlingGameTest {
     public void lisaDivergeOne() {
         
     }
+    
+    @Test
+    public void lisaRebaseOne() {
+        
+    }
 }
