@@ -23,4 +23,9 @@ public class BowlingGameTest {
     public void jessicaTestNumFo() {
 
     }
+
+    @Test
+    public void lisaDivergeOne() {
+        
+    }
 }
