@@ -33,4 +33,10 @@ public class BowlingGameTest {
     public void lisaRebaseOne() {
         
     }
+
+    @Test
+    public void lisaTestFive() {
+        //fixed a bug
+        
+    }
 }
