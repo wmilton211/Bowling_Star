@@ -44,4 +44,9 @@ public class BowlingGameTest {
     public void lisaTestSix() {
         //interactive rebase
     }
+
+    @Test
+    public void lisaTest7() {
+        //more interactive rebase
+    }
 }
