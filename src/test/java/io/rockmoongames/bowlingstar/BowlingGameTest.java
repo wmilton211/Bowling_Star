@@ -39,4 +39,9 @@ public class BowlingGameTest {
         //fixed a bug
         
     }
+
+    @Test
+    public void lisaTestSix() {
+        //interactive rebase
+    }
 }
